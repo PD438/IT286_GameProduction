@@ -11,7 +11,10 @@ It is insane to start this awesome project with awesome people.  I made the docu
 But making the contract was alot easier once i understood the steps.  The steps were alot more concise once i had a vision to create the steps.
 Some difficulties that displayed with the contract was more of the individual contract because i feel lost on how to make infromation created for the individual contract because of how unique each persons expectations. 
 Looking Ahead: 
+
 Start Creating the Game
 Create audio files for the developers to use and use unity to add it in as a package.
 I am excited for all of this to start happen.  
+
+
 ![Team Contract DRAFT - Google Docs - Opera 2025_01_29 23_17_47](https://github.com/user-attachments/assets/0e6b3d81-231c-475e-9b60-5f17c87147ca)
