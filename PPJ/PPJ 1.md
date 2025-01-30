@@ -7,8 +7,11 @@ Writing Group Draft Contract 3 hours
 Team Meeting (6 hours)
 
 I have successfully wrote the Team Contract and doing revisions for the individual contracts to assist mike to ensure we have all these items completed. 
-Looking Ahead: 
+It is insane to start this awesome project with awesome people.  I made the document and i was very confused on how to create it from scratch.  
+But making the contract was alot easier once i understood the steps.  The steps were alot more concise once i had a vision to create the steps.
 
+Looking Ahead: 
 Start Creating the Game
 Create audio files for the developers to use and use unity to add it in as a package.
 I am excited for all of this to start happen.  
+![Team Contract DRAFT - Google Docs - Opera 2025_01_29 23_17_47](https://github.com/user-attachments/assets/0e6b3d81-231c-475e-9b60-5f17c87147ca)
