@@ -9,7 +9,7 @@ Team Meeting (6 hours)
 I have successfully wrote the Team Contract and doing revisions for the individual contracts to assist mike to ensure we have all these items completed. 
 It is insane to start this awesome project with awesome people.  I made the document and i was very confused on how to create it from scratch.  
 But making the contract was alot easier once i understood the steps.  The steps were alot more concise once i had a vision to create the steps.
-
+Some difficulties that displayed with the contract was more of the individual contract because i feel lost on how to make infromation created for the individual contract because of how unique each persons expectations. 
 Looking Ahead: 
 Start Creating the Game
 Create audio files for the developers to use and use unity to add it in as a package.
