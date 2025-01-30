@@ -14,6 +14,7 @@ Looking Ahead:
 
 Start Creating the Game
 Create audio files for the developers to use and use unity to add it in as a package.
+Then i would like to work on creating the controls for players that use controllers and try to incorporate the pc controls and make sure theres no delay.  
 I am excited for all of this to start happen.  
 
 
