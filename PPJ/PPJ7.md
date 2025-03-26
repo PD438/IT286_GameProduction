@@ -1,4 +1,6 @@
 Paulo Duarte PPJ 07
+
+
 Hours worked on the project preparing for Personal Milestone: 4 hours
 Time spent on blender guru tutorial: 2 hours
 Time spent on creating items from blender: 2 hours
