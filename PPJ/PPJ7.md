@@ -17,3 +17,5 @@ In terms of the beta, I want to make the video to display more of my unique skil
 
 ![image](https://github.com/user-attachments/assets/22da09f4-a7eb-46d3-a072-7095b24cbed5)
 
+Looking Ahead: 
+I would like to make the survey for the playtest and also make some more items from blender so that i can complete more modeling and also complete more unique tasks.  
