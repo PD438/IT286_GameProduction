@@ -9,3 +9,6 @@ Another thing that i have worked on is the patch notes. The goal of it is to spe
 ![image](https://github.com/user-attachments/assets/086f75d0-9a44-40ae-9a93-574771151087)
 ![image](https://github.com/user-attachments/assets/2e43d1c0-c62a-400b-8357-eb1e4500f5f8)
 
+Looking Ahead:
+I can not wait to work further on this project in another class so that i can be able to publish this on steam.  
+Milestone 3 is due tomorrow so that was the reason that i wanted to make this feel alot more polished.  Another thing for note is how i have worked on the monkeys on blender4.4 and it worked perfectly. 
