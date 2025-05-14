@@ -4,10 +4,13 @@ I have implemented the sounds in the game using a audio dictionary.
 Another thing to note that i have done for this project is implementing some models for the game and also i have given implementations on how the game should be played.
 I have also learned how to use blender and give the models to thomas to implement into the game.
 
-PROS: I felt that the game was going to be a success because of how many people are actually interested in our game.  
+-PROS: 
+I felt that the game was going to be a success because of how many people are actually interested in our game.  
 I felt the communication with my team was actually an amazing that has happened with them. 
 We were able to implement everything that we wanted to implement 
 I am glad that we have this team because although there were some cons.
+Lastly, i felt that with this project, i definitely wanted more to do because i was so excited to learn in this course.  
+
 
 Cons:  I felt that with the game i wish we used a different engine. 
 I also felt that i did not do enough for my team mates even though i wanted to focus on the sound. 
